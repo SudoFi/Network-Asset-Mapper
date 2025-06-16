@@ -1,0 +1,3 @@
+[2025-06-16 13:14:01] [MAIN] --- Script Start ---
+[2025-06-16 13:14:01] [MAIN] Configuration loaded from C:\Users\cwiley\OneDrive - GCI Communication Corp\Documents\Scripts\Tools\Network Asset\config.json
+[2025-06-16 13:14:01] [MAIN] Displaying interactive task menu...

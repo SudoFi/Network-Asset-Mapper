@@ -1,0 +1,31 @@
+{
+  "department_heads": {
+    "IT": "Jane Doe",
+    "Human Resources": "John Smith",
+    "Finance": "Emily Jones",
+    "Security": "Alex Garcia",
+    "Operations": "Vacant",
+    "Unassigned": "N/A"
+  },
+  "scan_settings": {
+    "default_email_domain": "yourcompany.com"
+  },
+  "ad_config": {
+    "server": "your-dc.yourcompany.com",
+    "search_base": "DC=yourcompany,DC=com"
+  },
+  "axonius_api": {
+    "api_url": "https://your-axonius-instance.com",
+    "api_key": "YOUR_AXONIUS_API_KEY",
+    "api_secret": "YOUR_AXONIUS_API_SECRET"
+  },
+  "script_settings": {
+    "use_interactive_menu": true,
+    "default_tasks_to_run": [
+      "Active Directory Data",
+      "Axonius Device Data",
+      "Axonius User Data",
+      "Import Files"
+    ]
+  }
+}
